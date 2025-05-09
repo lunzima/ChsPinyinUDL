@@ -1,5 +1,5 @@
 # 拼音输入法词典（全拼方案）
-本项目提供了一份精心整理的全拼拼音输入法词典，内含丰富的词汇频率数据。通过这套词典，可以显著提升输入时的候选词准确度，让打字更高效流畅。
+本项目提供了一份精心整理的全拼拼音输入法词典（约54万余条），内含丰富的词汇频率数据。通过这套词典，可以显著提升输入时的候选词准确度，让打字更高效流畅。
 
 ## 文件说明
 1. **dict.txt**  
@@ -25,7 +25,7 @@
 
 ---
 # Pinyin Input Method Dictionary (Full Pinyin)
-This GitHub repository provides a custom-made pinyin input method dictionary that includes word frequency information. The dictionary is designed to enhance the typing experience by offering more accurate and relevant suggestions based on common usage patterns.
+This GitHub repository provides a custom-made pinyin input method dictionary (about 540,000 entries) that includes word frequency information. The dictionary is designed to enhance the typing experience by offering more accurate and relevant suggestions based on common usage patterns.
 
 ## Files Included
 1. **dict.txt**: This file contains a libime formatted dictionary suitable for use with fcitx5 and other input methods that utilize floating-point numbers as word frequencies. It includes comprehensive pinyin mappings along with precise word frequency data, which helps in predicting frequently used words.
